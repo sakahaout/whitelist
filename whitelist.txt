@@ -2,6 +2,11 @@
 1drv.com
 2.android.pool.ntp.org
 akamaihd.net
+scontent.fdac15-1.fna.fbcdn.net
+static.xx.fbcdn.net
+clientservices.googleapis.com
+www.facebook.com
+content-autofill.googleapis.com
 akamaitechnologies.com
 akamaized.net
 amazonaws.com
